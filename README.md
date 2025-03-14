@@ -14,7 +14,7 @@ To use M3U playlist in your IPTV application, look for the option to import an M
 
 ### Playlist URL:
 ````
-
+### PLALIST URL:
 ### EPG URL:
 ````
 
